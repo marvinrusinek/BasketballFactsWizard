@@ -1,0 +1,32 @@
+﻿body 
+{
+    background-color:#1865F2;
+    font-family:Tahoma;
+}
+
+.question 
+{
+    background:maroon;
+}
+
+.box1 
+{
+    float:left;
+    height:400px;
+    width:auto;
+}
+
+.box2 
+{
+    float: right; 
+    padding-right:10px;
+    width: 250px;
+    height: auto;
+}
+
+#centerLogin
+{
+    float:left;
+    margin-left:17%;
+    margin-top:10%;
+}
